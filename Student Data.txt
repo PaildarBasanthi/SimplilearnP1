@@ -1,0 +1,9 @@
+Student ID: 001
+Name: John Doe
+Age: 18
+Grade: 12
+
+Student ID: 002
+Name: Jane Smith
+Age: 17
+Grade: 11
